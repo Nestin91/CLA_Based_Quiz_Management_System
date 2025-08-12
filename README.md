@@ -1,5 +1,5 @@
 # CLA_Based_Quiz_Management_System
-Individual Project 2 - Implemented code for Quiz management system
+Individual Project-2 done at Emertxe Information Technologies
 
 Function Demonstrated:
 1. Conduct quiz thorugh command terminal
